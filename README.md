@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Umesh Dhakal</h1>
 <h3 align="center">A passionate Data Engineer from Kathmandu.</h3>
 
-- 🔭 I’m currently working on **Data Validation Wizard**
+- 🔭 I’m currently working on **Decision Analytics**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning.**
 
